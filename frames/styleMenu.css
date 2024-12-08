@@ -1,33 +1,32 @@
 a {
   text-align: center;
-	margin: 10px 30px;
+  margin: 10px 30px;
   font-size: 30px;
   font-weight: 600;
   color: #b88db7;
-	text-decoration: none;
+  text-decoration: none;
   display: flex;
   justify-content: center;
   align-items: center;
-  
-	}
+}
   img{
     width: 65px;
     height: 60px;
     margin: 0px 5px;
   }
   body {
-    background-color: #f4e2f3;  /*#fddde6;*/
+    background-color: #f4e2f3;  
     overflow: hidden;
     display: flex;
-    justify-content: center; /* Центрирование по горизонтали */
-    align-items: center; /* Центрирование по вертикали */
-    height: 100vh; /* Высота вьюпорта для вертикального центрирования */
-    margin: 0; /* Убираем отступы */
+    justify-content: center; 
+    align-items: center; 
+    height: 100vh; 
+    margin: 0; 
   }
   ul {
-    list-style-type: none; /* Убираем маркеры списка */
-    padding: 0; /* Убираем отступы */
-    display: flex; /* Выстраиваем элементы в строку */
+    list-style-type: none; 
+    padding: 0; 
+    display: flex;
   }
   li {
     line-height: 60px;
