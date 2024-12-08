@@ -22,7 +22,7 @@ h1{
   border: 3px solid #edd7f1;
 }
 #tb1{
-  margin: 0px auto;  /*Центрирование таблицы */
+  margin: 0px auto;  
   border-collapse: separate;
   padding: 0px 24px;
 }
@@ -37,15 +37,12 @@ h1{
 #tb2{
   margin: 80px auto; 
   border-spacing: 30px 5px;
-  padding: 24px;
-  /* border-collapse: collapse; */  
+  padding: 24px;  
 }
 #tb2 td{
   font-size: 20px;
-  /* white-space: nowrap; width: 1%; */
   height: 50px;
   width: 200px;
-  /* padding: 24px 0px; */
 }
 caption{
   font-size: 28px;
